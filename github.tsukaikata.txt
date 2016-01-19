@@ -1,0 +1,39 @@
+Shift + Insert = Paste from Clipboard
+
+http://techacademy.jp/magazine/6235
+ローカルリポジトリ　-- push -->　リモートリポジトリ
+commit ファイルの追加や変更の履歴をリポジトリに保存すること
+push インデックスをリモートリポジトリにアップロードすること
+branch
+git init --bare
+git clone [url]
+git add --> index
+git commit -m "memo" --> local repository --push--> remote repository
+git push
+dir --add--> index --commit--> local repo --push--> remote repo
+git status
+git remote add origin https://github.com/hogehoge.git
+git remote (view remote repo)
+git remote -v
+git remote add [name] [url]
+git remote rm [name]
+git push origin master
+git commit
+git commit -a (add)
+git branch [name]
+git branch
+git branch -d [name] (delete)
+git checkout
+git log -n 10 (commit history)
+git grep
+git reset -soft HEAD^ ??
+
+
+> git checkout master (checkout branch)
+> git merge bug-fix (merge branch)
+
+
+> git checkout master
+> git pull origin master
+
+
