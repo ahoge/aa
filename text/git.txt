@@ -1,0 +1,16 @@
+http://www.slideshare.net/ktateish/git-concept1
+
+Please audit your SSH keys
+
+For your protection and to prevent unauthorized access we have disabled your public keys
+
+If you have any 
+
+SSH keys
+
+Please review your keys and ensure you recognize them.
+If you have any doubts whatsoever, reject the keys and upload new keys.
+
+https://help.github.com/articles/generating-ssh-keys/
+
+
