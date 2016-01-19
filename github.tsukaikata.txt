@@ -1,6 +1,9 @@
 Shift + Insert = Paste from Clipboard
 
+ > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > 
+
 http://techacademy.jp/magazine/6235
+
 ローカルリポジトリ　-- push -->　リモートリポジトリ
 commit ファイルの追加や変更の履歴をリポジトリに保存すること
 push インデックスをリモートリポジトリにアップロードすること
@@ -36,4 +39,13 @@ git reset -soft HEAD^ ??
 > git checkout master
 > git pull origin master
 
+ > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > 
 
+http://techacademy.jp/magazine/6445
+
+
+ > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > 
+
+http://techacademy.jp/magazine/6398
+
+ > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > 
