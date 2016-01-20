@@ -1,4 +1,30 @@
+ > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > 
+
 Shift + Insert = Paste from Clipboard
+
+ > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > 
+
+https://osdn.jp/magazine/09/03/16/0831212
+
+git init
+git clone
+git fsch
+git gc
+
+git status
+git diff
+git add
+git commit
+git log
+git reset
+git revert
+git branch
+git checkout
+git show-branch
+git merge
+git tag
+git stash
+git rebase
 
  > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > 
 
@@ -10,6 +36,7 @@ push インデックスをリモートリポジトリにアップロードする
 branch
 git init --bare
 git clone [url]
+git fsck
 git add --> index
 git commit -m "memo" --> local repository --push--> remote repository
 git push
