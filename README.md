@@ -1,22 +1,15 @@
 # git /?
 
-[ref]
-[http://kohago.blogspot.jp/2014/03/git_28.html](http://kohago.blogspot.jp/2014/03/git_28.html)
 
 ``` この下は灰色になる
 
 git init --bare [dir]
 
-naze ---- git
-
 conceptが足りないから
 concept収集
 
+naze ---- git
 naze ---- concept
-
-git --naze-- y
-
-x --?-- y
 
 南波志帆 --らじる-- 水樹奈々
 
@@ -39,6 +32,10 @@ master ??
 local-repo --point-- origin
 point??
 
+```
+
+[ref]
+[http://kohago.blogspot.jp/2014/03/git_28.html](http://kohago.blogspot.jp/2014/03/git_28.html)
 
 usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
