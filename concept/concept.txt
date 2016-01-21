@@ -1,0 +1,37 @@
+[ref]
+http://kohago.blogspot.jp/2014/03/git_28.html
+
+git init --bare [dir]
+
+なぜgitが必要なのか
+y -- git
+
+conceptが足りないから
+concept収集
+
+[]--y--[]
+
+[]--?--[]
+
+南波志帆 --らじる-- 水樹奈々
+
+branch --push-->
+
+main-repo == bare-repo == share-repo
+
+local-repo != bare-repo
+
+ぱっち merge
+commit
+
+
+How checkout share-repo ?
+
+remote-repo (point) --clone--> local-repo (origin)
+
+master ??
+
+local-repo --point-- origin
+point??
+
+

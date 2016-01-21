@@ -1,6 +1,8 @@
-# aa - git /? [![nico](http://live.nicovideo.jp/)]
+# git /?
 
-[![rajiru](http://www3.nhk.or.jp/netradio/player/index.html?ch=fm)]
+# [![nico](http://live.nicovideo.jp/)]
+
+## [![rajiru](http://www3.nhk.or.jp/netradio/player/index.html?ch=fm)]
 
 aa
 
